@@ -1,4 +1,4 @@
-# COMPS III: Unit 6 Code Along
+# COMPS III: Unit 7 Code Along
 
 ## Overview
 
