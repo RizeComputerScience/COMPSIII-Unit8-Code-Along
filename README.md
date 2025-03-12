@@ -1,4 +1,4 @@
-# COMPS III: Unit 6 Code Along
+# COMPS III: Unit 7 Code Along
 
 ## Overview
 
@@ -13,10 +13,8 @@ In order to produce this final database, we need to create three new tables: `ca
 
 By the end of this code along, our recruiting firm will have multiple entities with relationships clearly defined between the entities.
 
-## Local Terminal - bash.sh has syntax instructions
-1. Navigate to the folder you created last week. Open the `tech_talent.python` Python file. 
-
 ## VS Code - tech_talent.python has syntax instructions
+1. The starter code has the majority of the code that we compelted last week. 
 2. We are going to build upon the `candidates` and `companies` tables we built last week. We need just the table creation and insertion of data. You are good to delete all of the `UPDATE` and `DELETE` commands.
 3. Call `DROP TABLE IF EXISTS` for the tables you are going to create: `jobs`, `candidate_profiles`, `candidates_jobs`.
 4. Start with the one-to-one relationship. Create a `candidate_profiles` table with the required values.
